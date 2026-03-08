@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/damienbutt/figlet/releases/download/v0.1.0/figlet_0.1.0_windows_amd64.zip",
+            "bin": [
+                "figlet.exe"
+            ],
+            "hash": "c5c6c01a6943d88ad9011d1b9202a779f8ff808e11c77e660e83a9191d298396"
+        },
+        "arm64": {
+            "url": "https://github.com/damienbutt/figlet/releases/download/v0.1.0/figlet_0.1.0_windows_arm64.zip",
+            "bin": [
+                "figlet.exe"
+            ],
+            "hash": "e315ec9b34aeb21aad593b37b5f262d063ceedc5f7cdd8132607f7c73c5dc82f"
+        }
+    },
+    "homepage": "https://github.com/damienbutt/figlet",
+    "license": "MIT",
+    "description": "Go FIGdriver. Generates ASCII art from text using FIGlet fonts."
+}
